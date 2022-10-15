@@ -6,7 +6,7 @@
 ~Use the form to enter your preferences for an ice cream. Once you submit the form, the webpage will use client-side javascript to do an AJAX pull from a back-end database. We created a back-end database that contains the price for each selection. The AJAX pulls it from the hosted page (like any other API) and not from the internal directories. Based on your selections, the webpage will calculate and display the total amount due.
 
 <b>About</b>
-~Developed a database management system using pgSQL to store,search and purchase icecreams in an Ice-parlour website. Created a website using HTML, CSS and PHP and integrated it with the database.
+~Developed a database management system using AJAX to store,search and purchase icecreams in an Ice-parlour website. Created a website using HTML, CSS and PHP and integrated it with the database.
 
 Some Screenshots are :
 ![Screenshot (30)](https://user-images.githubusercontent.com/76767324/195979057-c18eb2a8-d2a3-4914-a715-168e3929f2cc.png)
